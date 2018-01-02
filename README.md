@@ -9,4 +9,7 @@ https://wildanmsyah.wordpress.com/2017/05/11/mqtt-android-client-tutorial/
 - [Paho MQTT Android Service](https://github.com/eclipse/paho.mqtt.android)
 - [CloudMQTT Broker](https://www.cloudmqtt.com/)
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-@Author: Agraja Jahagirdar
+
+# Author
+Agraja Jahagirdar
+
