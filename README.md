@@ -1,4 +1,5 @@
-# MQTT Android Service Tutorial
+# Hot Wheel -multiplayer car racing game
+## To understand MQTT protocol and Eclipse Paho please refer the link given below
 A tutorial for using the MQTT Android Service, as seen on https://wildanmsyah.wordpress.com/2017/05/11/mqtt-android-client-tutorial/
 
 ### Uses:
